@@ -1,3 +1,10 @@
+# gif image of the project
+![Gif Image](https://github.com/brkkrtlgl/todoApp/blob/master/todoApp.gif)
+
+## Link published by the project.
+https://frabjous-raindrop-2f063e.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
